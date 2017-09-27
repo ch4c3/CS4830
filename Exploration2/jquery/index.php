@@ -3,7 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<title>Candace's Vacation Photos</title>
+	<!-- for font used -->
+	<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+	<!-- Jquery UI imports-->
 	<link href="jquery-ui.css" rel="stylesheet">
+	<script src="external/jquery/jquery.js"></script>
+<script src="jquery-ui.min.js"></script>
 	<style>
 	body{
 		background-color: #000000;
@@ -21,11 +26,13 @@
 		font-family: 'Indie Flower', cursive;
 
 	}
+
+
 	</style>
 </head>
 <body>
 	<div class="header">
-  <h1><u> Candace's Photo Database &hearts;</u> </h1>
+  <h1>Candace's Photo Database </h1>
 </div>
 </body>
 	<?php
